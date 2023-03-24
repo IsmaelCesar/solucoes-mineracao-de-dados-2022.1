@@ -4,7 +4,7 @@ Equipe: Filipe Melo, Ismael Cesar, Thiago Melo
 
 Na disciplina, realizamos um projeto em cima do dataset de Shill Biding, que pode ser encontrado em: https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset
 Esse dataset trata do problema de detecção de shill biddings no ebay. "Shill Bidding" é um tipo de fraude em leilões virtuais, onde donos de produtos (ou seus cúmplices) criam contas falsas para gerar uma demanda e aumentar os preços do produto artificialmente, então quando um comprador honesto propõe um lance cobrindo os lances anteriores o mesmo acaba pagando mais que deveria, já que o preço foi aumentado artificialmente. Segundo o Internet Crime
-Complain Centre (IC3) (Fonte: I.C.C. Center, “2015 internet crime report,” in 2015 IC3 Report) fraudes em leilões virtuais é um dos cyber-crimes mais comuns.
+Complain Centre (IC3) (Fonte: I.C.C. Center, “2015 internet crime report,” in 2015 IC3 Report) fraudes em leilões virtuais é um dos tipos de cyber-crimes mais comuns.
 
 A prática de "Shill Bidding" é um problema para a plataforma do ebay, desde os seus primeiros anos, e é uma preocupação da empresa tomar ações contra isso. Recentemente, eles removeram o maior vendedor de "trading cards" do site, removendo mais de 18000 anúncios feitos pelo usuário. Fonte:
  
